@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<!-- Improved compatibility of back to top link: See: https://github.com/talkAnimatew/talkAnimate/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/talkAnimate/talkAnimate/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the talkAnimate. If you have a suggestion
@@ -43,7 +43,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/talkAnimatew/talkAnimate">
+  <a href="https://github.com/talkAnimate/talkAnimate">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -52,14 +52,14 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/talkAnimatew/talkAnimate"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/talkAnimate/talkAnimate"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/talkAnimatew/talkAnimate">View Demo</a>
+    <a href="https://github.com/talkAnimate/talkAnimate">View Demo</a>
     ·
-    <a href="https://github.com/talkAnimatew/talkAnimate/issues">Report Bug</a>
+    <a href="https://github.com/talkAnimate/talkAnimate/issues">Report Bug</a>
     ·
-    <a href="https://github.com/talkAnimatew/talkAnimate/issues">Request Feature</a>
+    <a href="https://github.com/talkAnimate/talkAnimate/issues">Request Feature</a>
   </p>
 </div>
 
@@ -188,7 +188,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/talkAnimatew/talkAnimate/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/talkAnimate/talkAnimate/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
