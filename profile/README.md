@@ -254,13 +254,13 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/talkAnimate/talkAnimate.svg?style=for-the-badge
 [contributors-url]: https://github.com/talkAnimate/talkAnimate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/talkAnimatew/talkAnimate.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/talkAnimate/talkAnimate.svg?style=for-the-badge
 [forks-url]: https://github.com/talkAnimate/talkAnimate/network/members
-[stars-shield]: https://img.shields.io/github/stars/talkAnimatew/talkAnimate.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/talkAnimate/talkAnimate.svg?style=for-the-badge
 [stars-url]: https://github.com/talkAnimate/talkAnimate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/talkAnimatew/talkAnimate.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/talkAnimate/talkAnimate.svg?style=for-the-badge
 [issues-url]: https://github.com/talkAnimate/talkAnimate/issues
-[license-shield]: https://img.shields.io/github/license/talkAnimatew/talkAnimate.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/talkAnimate/talkAnimate.svg?style=for-the-badge
 [license-url]: https://github.com/talkAnimate/talkAnimate/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/talkAnimatew
